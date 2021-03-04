@@ -1,5 +1,5 @@
-  let status = true;
-while ( status = true ){  
+let tanya = true;
+while ( tanya ){  
   alert('program memasukan angka positif dan negatif')
   let angka = parseInt(prompt('masukan angka'))
 
@@ -12,9 +12,6 @@ while ( status = true ){
   } else {
     alert('ini bukan angka');
   }
-
-  tanya = confirm('apakah anda mau memasukan ulang?')
-  
+  tanya = confirm('apakah anda mau memasukan ulang?');
 } 
-
 alert('terimakasi');
