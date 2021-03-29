@@ -1,3 +1,4 @@
+alert('aplikasi sederhana');
 let tanya = true;
 while ( tanya ){  
   alert('program memasukan angka positif dan negatif')
