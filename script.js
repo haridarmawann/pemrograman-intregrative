@@ -14,4 +14,4 @@ while ( tanya ){
   }
   tanya = confirm('apakah anda mau memasukan ulang?');
 } 
-alert('terimakasi');
+alert('terimakasih sampai jumpa kembali');
